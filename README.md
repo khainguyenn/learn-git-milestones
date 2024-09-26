@@ -444,9 +444,9 @@ Row | Step | Description | Completed
 9 | 7-1 | Link to `first-website` github.com repo page | [Link](https://github.com/khainguyenn/first-website)
 10 | 8-1 | Link to `first-website` github.io "project site" | [Link](https://khainguyenn.github.io/first-website/)
 12 | 9-1 | What is in Owen's dev branch? | Rickroll
-13 | 10-1 | Link to your new branch on github.com | https://github.com/khainguyenn/learn-git-milestones/tree/khai-changes
-14 | 11-1 | Link to your network graph | https://github.com/khainguyenn/learn-git-milestones/network
-15 | 12-1 | Link to the PR you made on a partner's github.com repo | https://github.com/siqjulia/first-website/pull/1
+13 | 10-1 | Link to your new branch on github.com | [Link](https://github.com/khainguyenn/learn-git-milestones/tree/khai-changes)
+14 | 11-1 | Link to your network graph | [Link](https://github.com/khainguyenn/learn-git-milestones/network)
+15 | 12-1 | Link to the PR you made on a partner's github.com repo | [Link](https://github.com/siqjulia/first-website/pull/1)
 
 
 
